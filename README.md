@@ -1,10 +1,10 @@
 # Controle-de-Estoque
-*Sistema de controle funcionando em CMD com aplicações para facilitar leitura e manipulação de dados de arquivos .XLSX
+* Sistema de controle funcionando em CMD com aplicações para facilitar leitura e manipulação de dados de arquivos .XLSX 
 
-*Bibliotecas usadas em python:
+* Bibliotecas usadas em python: 
 
--Python 3.10.5
--Openpyxl versão 3.0.10
+- Python 3.10.5 
+- Openpyxl versão 3.0.10 
 -Pandas versão 1.4.3
 
 *Como usar:
