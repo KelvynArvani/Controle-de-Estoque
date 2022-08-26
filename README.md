@@ -9,7 +9,7 @@
 
 * Como usar:
 
-Instalando bibliotecas do Openpyxl e Pandas:
+* Instalando bibliotecas do Openpyxl e Pandas: 
  -- pip install pandas 
  -- pip install openpyxl
 * Executar arquivo "interface.py" no terminal
