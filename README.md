@@ -7,10 +7,10 @@
 - Openpyxl versão 3.0.10 
 -Pandas versão 1.4.3
 
-*Como usar:
+* Como usar:
 
-Instalando bibliotecas do Openpyxl e Pandas 
+Instalando bibliotecas do Openpyxl e Pandas:
  -- pip install pandas 
  -- pip install openpyxl
-Executar arquivo "interface.py" no terminal
-*É possivel realizar consulta geral da planílha, consulta de linhas específicas, editar dados, criar dados e remoção de dados
+* Executar arquivo "interface.py" no terminal
+* É possivel realizar consulta geral da planílha, consulta de linhas específicas, editar dados, criar dados e remoção de dados
